@@ -1,0 +1,17 @@
+声明：
+    一键脚本搭建ss/ssr服务+开启bbr加速
+用法：
+    显示版本：
+        ss-wh.sh -v|v|version
+    显示帮助：
+        ss-wh.sh [-h|h|help]
+    一键安装ss:
+        ss-wh.sh -i|i|install
+    一键卸载ss：
+	ss-wh.sh -uninstall
+    一键安装ssr:
+	ss-wh.sh -ssr
+    显示ss链接:
+        ss-wh.sh -sslink
+    安装BBR加速：
+        ss-wh.sh -bbr
